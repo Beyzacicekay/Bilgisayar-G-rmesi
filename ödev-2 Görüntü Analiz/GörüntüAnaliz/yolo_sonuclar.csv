@@ -1,0 +1,11 @@
+image_url,contains_person,detected_objects
+https://im.haberturk.com/l/2024/10/24/ver1729758998/3731526/jpg/640x360,True,"person, book, potted plant, book, potted plant, book, book, book"
+https://cdn1.ntv.com.tr/gorsel/nHU2Qm4nQU278nL0xybbGw.jpg?width=320&height=182&mode=crop&scale=both&v=1728541017038,False,car
+https://cdn1.ntv.com.tr/gorsel/OR969B202UWAXuKK9dr7fw.jpg?width=320&height=182&mode=crop&scale=both&v=1720009947644,True,person
+https://icdn.ensonhaber.com/crop/400x225/resimler/diger/kok/2024/10/24/6719dfefc5237653.jpg,False,"car, truck"
+https://cdn1.ntv.com.tr/gorsel/aPEoMnXlMU6RwPYlEJ-RhQ.jpg?width=320&height=182&mode=crop&scale=both&v=1698151530295,True,person
+https://i12.haber7.net//haber/haber7/photos/2024/41/dunyanin_en_guzel_kiz_cocugu_secilmisti_simdi_18_yasinda_1728481167_8502.jpg,True,person
+https://image.hurimg.com/i/hurriyet/75/438x246/670271805e4bd54688ce77dd.jpg,True,"person, person"
+https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2024/10/kedibebekyetenekbilimshutterjpg-9o_h3wZwUUe66KVhN-hO8g.jpg?w=490&h=276&mode=crop&scale=both,False,"cat, bed"
+https://image.hurimg.com/i/hurriyet/75/866x494/661d0d883f75150bab8f6d97.jpg,False,bird
+https://foto.haberler.com/crop/340x168/haber/2024/09/28/karabuk-te-safran-cicek-acti-17871580_amp.jpg,False,potted plant
